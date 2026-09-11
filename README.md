@@ -51,24 +51,4 @@ The main interface allows the user to:
 - Start the flight simulation.
 - Display the "Champions of Efficiency" based on log files.
 
-## 📁 Project Structure
 
-```text
-project_1/
-│
-├── main.py
-├── drone.py
-├── package.py
-├── fleet.py
-├── pathfinding.py
-├── flight_envelope.py
-├── simulation.py
-├── visualization.py
-├── fleet_state.json
-├── logs/
-│   └── ...
-│
-├── presentation/
-│   └── presentation_link.txt
-│
-└── README.md
